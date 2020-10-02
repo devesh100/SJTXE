@@ -1,4 +1,4 @@
 SJTXE
 =====
 
-Selenium Javascript Test eXtension for ExtJS
+Selenium Javascript Test Extension for ExtJS
